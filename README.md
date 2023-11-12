@@ -1,3 +1,15 @@
-# I'm Christopher Maradiaga, I am a full-time Computer Science Student at Farmingdale State College looking to pursue a career in the tech world. I enjoy coding because it allows me to express my creativity. I like to really enjoy learning languages and frameworks such as Flask, Java, Python, HTML, and CSS. 
+### Hi there 👋, my name is Christopher
+#### Computer Science at Farmingdale State College
+I enjoy programming becuase it allows me to express my creativity and ideas in a way that is unique to me. I have strong background and a passion for leveraging technology to drive innovation and solve problems.
+
+Skills: Java / Python / C++ / HTML / CSS / Flask
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Swift / HTML / CSS 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/christopher-maradiaga/)  
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maradC&hide=contribs,prs)

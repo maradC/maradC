@@ -8,7 +8,8 @@ Skills: Java / Python / C++ / HTML / CSS / Flask
 - 🌱 I’m currently learning Swift / HTML / CSS 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/christopher-maradiaga/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/christopher-maradiaga-1100b9269/)  
+
 
 
 

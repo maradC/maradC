@@ -5,7 +5,7 @@ I enjoy programming becuase it allows me to express my creativity and ideas in a
 Skills: Java / Python / C++ / HTML / CSS / Flask
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Swift / HTML / CSS 
+- 🌱 I’m currently learning Swift / HTML / CSS / Javascript
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/christopher-maradiaga-1100b9269/)  

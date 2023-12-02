@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Christopher
 #### Computer Science at Farmingdale State College
-I enjoy programming becuase it allows me to express my creativity and ideas in a way that is unique to me. I have strong background and a passion for leveraging technology to drive innovation and solve problems.
+I enjoy programming because it allows me to express my creativity and ideas in a way that is unique to me. I have a strong background and a passion for leveraging technology to drive innovation and solve problems.
 
 Skills: Java / Python / C++ / HTML / CSS / Flask
 

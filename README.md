@@ -2,7 +2,7 @@
 #### Computer Science at Farmingdale State College
 I enjoy programming because it allows me to express my creativity and ideas in a way that is unique to me. I have a strong background and a passion for leveraging technology to drive innovation and solve problems.
 
-Skills: Java / Python / C++ / HTML / CSS / Javascript / Swift / SQL 
+Skills: Java / Python / C++ / HTML / CSS / Javascript / GO / mySQL 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning SpringBoot 
